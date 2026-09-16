@@ -298,7 +298,10 @@
     "@microsoft/dev-tunnels-management": {
       "axios": "^1.20.0"
     },
-    "js-yaml@4": "^4.3.1"
+    "js-yaml@4": "^4.3.1",
+    "ajv": {
+      "fast-uri": "^3.1.8"
+    }
   },
   "repository": {
     "type": "git",
