@@ -3,6 +3,19 @@
 The file to keep a list of changed files which will potentially help to resolve rebase conflicts.
 
 #### @sbouchet
+fix multiple CVEs by updating fast-uri to patched version
+
+- code/package.json
+- code/build/package.json
+- code/build/rspack/package.json
+- code/build/agent-sdk/agents/claude/package.json
+- code/extensions/copilot/package.json
+- code/test/monaco/package.json
+- code/test/mcp/package.json
+- rebase.sh
+---
+
+#### @sbouchet
 https://github.com/che-incubator/che-code/pull/811
 
 - code/build/package.json
